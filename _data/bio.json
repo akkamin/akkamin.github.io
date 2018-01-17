@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Aidan Akamine",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
+    "email": "aidana@hawaii.edu",
     "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "website": "https://akkamin.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
@@ -17,13 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "akkamin",
+        "url": "http://github.com/akkamin"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "aidanakamine",
+        "url": "http://linkedin.com/in/aidan-akamine-b37320138"
       },
       {
         "network": "twitter",
@@ -39,14 +39,14 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "3D character modeling",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "website development",
       "keywords": [
       ]
     },
