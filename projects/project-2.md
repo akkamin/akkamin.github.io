@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/blender_2.png
+image: images/blender.png
 title: 3D Character modelling
 permalink: projects/blender
 # All dates must be YYYY-MM-DD format!
