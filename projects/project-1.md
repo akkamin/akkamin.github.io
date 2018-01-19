@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/website.png
+image: images/website.jpg
 title: Website Development
 permalink: projects/website
 # All dates must be YYYY-MM-DD format!
