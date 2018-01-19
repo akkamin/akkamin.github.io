@@ -1,24 +1,23 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/street_fighter_game.png
 title: Game
 permalink: projects/java_game
 # All dates must be YYYY-MM-DD format!
-date: 2017-04-28
+date: 2016-11-27
 labels:
   - Java
 summary: I developed a game in java using the EZ.java graphics engine. 
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/street_fighter_game.png">
+  
 </div>
 
-EZ.java is a graphics engine for java that makes graphics rendering very easy. With no programming experience I was able to create user interfaces and 
-games in java through simple functions and commands. I later made a game 
+In the ICS 111 my partner and I created a basic Street Fighter like game where a user controlls the character on the screen to destroy a car. Various character poses were used to make it seem like the character was moving on the screen. This game was created using EZ.java, a graphics engine for java that makes graphics rendering very easy. 
+
+You can learn more about [EZ.java](http://www2.hawaii.edu/~dylank/ics111/).
 
 
