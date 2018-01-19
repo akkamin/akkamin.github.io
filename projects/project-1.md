@@ -1,14 +1,14 @@
 ---
 layout: project
 type: project
-image: images/blender.png
-title: 3D Character modelling
-permalink: projects/blender
+image: images/website.png
+title: Website Development
+permalink: projects/website
 # All dates must be YYYY-MM-DD format!
 date: 2016-01-01
 labels:
   - Blender
-summary: A 3D model I created in Blender
+summary: 
 ---
 
 <img class="ui medium right floated rounded image" src="../images/website_2.jpg">
