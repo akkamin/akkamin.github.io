@@ -1,21 +1,20 @@
 ---
 layout: project
 type: project
-image: images/website.jpg
-title: Website development
-permalink: projects/websiteDevelopment
+image: images/blender.png
+title: 3D Character modelling
+permalink: projects/blender
 # All dates must be YYYY-MM-DD format!
-date: 2017-6-20
+date: 2016-01-01
 labels:
-  - Javascript
-  - php
-  - sql
-  - html
-summary: Website development
+  - Blender
+summary: A 3D model I created in Blender
 ---
 
-<img class="ui medium right floated rounded image" src="../images/website_2.jpg">
+<img class="ui image" src="../images/blender_2.png">
 
-Although I do not yet have any fully functioning examples of websites I have developed, I have worked on already existing websites and am currently working on my own website. While this doesn't seem like much, it has given me exposure to website implementation and structure. Website development is interesting because it often requires you to combine seemingly unrelated things in order to create a finished product. For example, take the login page of any website. In order to create a secure and functioning login page, various languages are often used together. HTML is used to create visual interfaces for users, javascript then can be used to make these interfaces interactive, and then php and sql can be used to check if input specified by the user matches a username and password in a database.
-  
-Realizing that different programming languages with different functionalities could be utilized together was a shock for me because I only had experience writing programs using a single language. Just like in the picture above, sometimes programs or websites are like a city, they require multiple different parts each with different functions to run properly.
+Blender is a free to use 3D modeling program. It has a wide variety of functionality and can be used to create digital art, animations and games along with other things. Since Blender is a free program, this makes it a very convenient tool for people with no experience in 3D computer modeling. There are also many videos and tutorials online that explain how to use the various features within Blender, making the process less painful.  
+
+Over the past year that I have been experimenting with blender, I've come to realize that not all things can be finished in simply one step, rather, multiple different steps are often required.  This "dragon" which was one of my first "experiments" in Blender illustrates that process. First I had to create a model or "mesh" of the dragon consisting of verticies and polygons. A "material" was then applied to this mesh to give it a certain color, texture, etc. And finally "Armatures" were then added to allow the dragon to be posed. Each of these steps also took significant time for me, since I didnt know what I was doing. Thus, just to make a (honestly pretty bad looking) dragon that could be posed, took a couple of weeks for me to complete. 
+
+I learned a lot about the design processes through Blender and am currently focusing on creating better meshes right now. 
