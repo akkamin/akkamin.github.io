@@ -11,10 +11,8 @@ labels:
 summary: A game developed using EZ.java for ICS 111.
 ---
 
-<div class="ui small rounded images">
   <img class="ui image" src="../images/street_fighter_game.png">
   
-</div>
 
 In ICS 111 my partner and I created a basic Street Fighter like game where the user controlls a character on the screen to destroy a car. To make the game more visually appealing, various images of different character poses were used for each character to make it seem like the character was moving on the screen. These character poses, called "sprites" were then continously cycled through during execution of the program. 
 
