@@ -8,7 +8,7 @@ labels:
   - Goals
 ---
 
-<img class="ui medium right spaced image" src="../images/essay_1.jpg">*The World is Big.*
+<img class="ui large right spaced image" src="../images/essay_1.jpg">*The World is Big.*
 
   Life without a goal is very hard (at least in my opinion). During high school and even for the first few years of college I had no goals. I would only do things for instant satisfaction. It was an easy life without direction or worry, but it was a hollow life. It was as if everything I did lacked substance. Slowly though, I began to notice this problem and took small steps to address it. 
 
