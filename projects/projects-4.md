@@ -8,7 +8,7 @@ permalink: projects/java_game
 date: 2016-11-27
 labels:
   - Java
-summary: I developed a game in java using the EZ.java graphics engine. 
+summary: A game developed using EZ.java for ICS 111.
 ---
 
 <div class="ui small rounded images">
