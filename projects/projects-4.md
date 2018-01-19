@@ -16,7 +16,9 @@ summary: A game developed using EZ.java for ICS 111.
   
 </div>
 
-In the ICS 111 my partner and I created a basic Street Fighter like game where a user controlls the character on the screen to destroy a car. Various character poses were used to make it seem like the character was moving on the screen. This game was created using EZ.java, a graphics engine for java that makes graphics rendering very easy. 
+In ICS 111 my partner and I created a basic Street Fighter like game where the user controlls a character on the screen to destroy a car. To make the game more visually appealing, various images of different character poses were used for each character to make it seem like the character was moving on the screen. These character poses, called "sprites" were then continously cycled through during execution of the program. 
+
+This game was created using EZ.java, a graphics engine for java that makes graphics rendering very easy. EZ.java was a very helpful interface that made it possible for someone like me with no prior programming experience to get exposed to material above my understanding. 
 
 You can learn more about EZ.java [here](http://www2.hawaii.edu/~dylank/ics111/).
 
