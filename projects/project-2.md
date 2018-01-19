@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/website.jpg
 title: Website development
-permalink: projects/website
+permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2017-6-20
 labels:
