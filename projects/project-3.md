@@ -1,61 +1,20 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/blender.png
+title: 3D Character modelling
+permalink: projects/blender
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  -Blender
+summary: A 3D model I created in Blender
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/blender_2.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+Blender is a free to use 3D modeling program. It has a wide variety of functionality and can be used to create digital art, animations and games along with other things. Since Blender is a free program, it makes it a very convenient tool for people with no experience in 3D computer modeling. There are also many videos and tutorials online that explain how to use the various features within Blender, making the process less painful.  
 
-To give you a flavor of the game, here is an excerpt from one run:
+Over the past year that I have been experimenting with blender, I've come to realize that not all things can be finished in simply one step, rather, multiple different steps are often required.  This "dragon" which was one of my first "experiments" in Blender illustrates that process. First I had to create a model or "mesh" of the dragon consisting of verticies and polygons. A "material" was then applied to this mesh to give it a certain color, texture, etc. And finally "Armatures" were then added to allow the dragon to be posed. Each of these steps also took significant time for me, since I didnt know what I was doing. Thus, just to make a (honestly pretty bad looking) dragon that could be posed, took a couple of weeks for me to complete. 
 
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+I learned a lot about the design processes through Blender and am currently focusing on creating better meshes right now. 
