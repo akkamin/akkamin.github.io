@@ -5,9 +5,12 @@ image: images/website.png
 title: Website Development
 permalink: projects/website
 # All dates must be YYYY-MM-DD format!
-date: 2016-01-01
+date: 2016-06-04
 labels:
-  - Blender
+  - HTML
+  - Javascript
+  - php
+  - sql
 summary: 
 ---
 
