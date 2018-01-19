@@ -8,7 +8,7 @@ permalink: projects/java_game
 date: 2016-11-27
 labels:
   - Java
-summary: A game developed using EZ.java for ICS 111.
+summary: A game I developed using EZ.java for ICS 111.
 ---
 
   <img class="ui image" src="../images/street_fighter_game.png">
