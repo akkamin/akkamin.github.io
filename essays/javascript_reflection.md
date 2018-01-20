@@ -8,8 +8,6 @@ labels:
   - Goals
 ---
 
-# Thoughts on Javascript
-
 ## Javascript as a Programming Language
 
   Javascript is a powerful programming language that is quite easy to learn. For someone with little to no programming experience javascript seems like a very intuitive programming language. From the perspective of someone like me who learned other programming languages prior to javascript, the "natural" way code can be written in javascript was quite suprising. I mean "natural" in the sense that unlike other programming languages such as C, C++ and even java to some extent, where the programmer must be very clear about every detail they want the program to execute, in javascript, its almost as if the program knows what you want it to do. For example, if you want to create a string variable called dog which contains "hello" all you have to do is:
