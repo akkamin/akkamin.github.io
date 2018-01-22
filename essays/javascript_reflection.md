@@ -5,7 +5,7 @@ title: Thoughts on Javascript
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-19
 labels:
-  - Goals
+  - Javascript
 ---
 
 ## Javascript as a Programming Language
