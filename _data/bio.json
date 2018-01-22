@@ -95,13 +95,13 @@
     {
       "organization": "guide.net",
       "website": "guide.net",
-      "position": "Software Developer",
+      "position": "Website Developer",
       "startDate": "2017-06-01",
       "endDate": "Present",
-      "summary": "Developer for ",
+      "summary": "Developer for guide.net",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Design and implement user interface for website",
+        "Create systems to allow users to access information in databases on a web server"
       ] 
     }
   ],
