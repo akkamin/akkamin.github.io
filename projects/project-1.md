@@ -11,7 +11,7 @@ labels:
   - Javascript
   - php
   - sql
-summary: 
+summary: My experiences so far with web development
 ---
 
 <img class="ui medium right floated rounded image" src="../images/website_2.jpg">
