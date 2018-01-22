@@ -92,7 +92,18 @@
     },
   ],
   "volunteer": [
- 
+    {
+      "organization": "guide.net",
+      "website": "guide.net",
+      "position": "Software Developer",
+      "startDate": "2017-06-01",
+      "endDate": "Present",
+      "summary": "Developer for ",
+      "highlights": [
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
+      ] 
+    }
   ],
   "awards": [
     {
