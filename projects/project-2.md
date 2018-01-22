@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/blender.png
-title: 3D Character modelling
+title: Blender Dragon
 permalink: projects/blender
 # All dates must be YYYY-MM-DD format!
 date: 2016-01-01
