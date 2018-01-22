@@ -18,9 +18,9 @@ labels:
 
 ### let cat = 8;
 
-  After becoming used to languages like C and C++ where the programmer is not only responsible for creating a program but is also responsible for managing other aspects of the program such as its memory and pointers, using a language like javascript in a way feels like moving backwards. A lot of the responsibilities you had in languages like C and C++ are gone and it feels like being demoted because it seems like a lot less knowledge is required to use the language. 
+  After becoming used to languages like C and C++ where the programmer is not only responsible for creating a program but is also responsible for managing other aspects of the program such as its memory and pointers, using a language like javascript in a way feels like moving backwards. A lot of the responsibilities you had in languages like C and C++ are gone and it seems like a lot less knowledge is required to use the language. 
   
-  However, the thing about programming languages is that it doesn't matter whether or not one language seems "harder" to learn than another. If you throw pride away, the difficulty in learning a programming language means nothing. Each programming language has is uses and functions, just because one programming language is harder to learn than another, doesn't mean it is necessarily better. Often times circumstances dictate which programming language is better suited for a certain task.   
+  However, the thing about programming languages is that it doesn't matter whether or not one language seems "harder" to learn than another. If you throw pride away, the difficulty in learning a programming language means nothing. Each programming language has is uses and functions, just because one programming language is harder to learn than another, doesn't mean it is necessarily better. Often times circumstances dictate which programming language is better suited for a certain task. 
   
   
 ## Becoming Proficient in Javascript
