@@ -11,7 +11,7 @@ labels:
 summary: A 3D model I created in Blender
 ---
 
-<img class="ui medium rounded image" src="../images/blender_2.png">
+<img class="ui large rounded image" src="../images/blender_2.png">
 
 Blender is a free to use 3D modeling program. It has a wide variety of functionality and can be used to create digital art, animations and games along with other things. Since Blender is a free program, this makes it a very convenient tool for people with no experience in 3D computer modeling. There are also many videos and tutorials online that explain how to use the various features within Blender, making the process less painful.  
 
