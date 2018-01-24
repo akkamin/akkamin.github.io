@@ -12,11 +12,11 @@ labels:
 
   Javascript is a powerful programming language that is quite easy to learn. For someone with little to no programming experience javascript seems like a very intuitive programming language. From the perspective of someone like me who learned other programming languages prior to javascript, the "natural" way code can be written in javascript was quite surprising. I mean "natural" in the sense that unlike other programming languages such as C, C++ and even java to some extent, where the programmer must be very clear about every detail they want the program to execute, in javascript, its almost as if the program knows what you want it to do. For example, if you want to create a string variable called dog which contains "hello" all you have to do is:
   
-''' let dog = "hello"; '''
+``` let dog = "hello"; ```
  
 and if you want to create a integer variable called cat which contains 8 all you have to do is:
 
-''' let cat = 8; '''
+``` let cat = 8; ```
 
   After becoming used to languages like C and C++ where the programmer is not only responsible for creating a program but is also responsible for managing other aspects of the program such as its memory and pointers, using a language like javascript in a way feels like moving backwards. A lot of the responsibilities you had in languages like C and C++ are gone and it seems like a lot less knowledge is required to use the language. 
   
