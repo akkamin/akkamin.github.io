@@ -21,7 +21,7 @@ labels:
   
   <img class="ui xlarge image" src="../images/bad_answer.png">*These comments comes from the popular site Stack OverFlow*
   
-The comments for this post clearly represent the sentiment many users in the community feel when stumbling onto these types of bad questions. Everything asked by the person who posted this question could be found in a C book and the question was basically a broad question about how to use the ```fgets()``` function in C.  
+The comments for this post clearly represent the sentiment many users in the community feel when stumbling onto these types of bad questions. Everything asked by the person who posted this question could be found in a C book as the post was basically a broad question about how to use the ```fgets()``` function in C.  
 
   In contrast to that bad question, lets see an example of a good question. [Please click here, the post is rather long](https://stackoverflow.com/questions/14732881/write-to-text-file-outside-of-webroot-directory). 
   
