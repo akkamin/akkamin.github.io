@@ -19,7 +19,7 @@ labels:
   
   which is followed by the comments:
   
-  <img class="ui large image" src="../images/bad_answer.png">*These comments comes from the popular site Stack OverFlow*
+  <img class="ui xlarge image" src="../images/bad_answer.png">*These comments comes from the popular site Stack OverFlow*
   
 The comments for this post clearly represent the sentiment many users in the community feel when stumbling onto these types of bad questions. Everything asked by the person who posted this question could be found in a C book and the question was basically a broad question about how to use the ```fgets()``` function in C.  
 
