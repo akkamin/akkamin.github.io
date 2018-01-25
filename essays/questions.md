@@ -15,7 +15,7 @@ labels:
   
   An example of a bad question is in the picture below:
   
-  <img class="ui large image" src="../images/bad_question.png">*This question comes from the popular site Stack OverFlow*
+  <img class="ui xlarge image" src="../images/bad_question.png">*This question comes from the popular site Stack OverFlow*
   
   which is followed by the comments:
   
@@ -23,7 +23,7 @@ labels:
   
 The comments for this post clearly represent the sentiment many users in the community feel when stumbling onto these types of bad questions. Everything asked by the person who posted this question could be found in a C book and the question was basically a broad question about how to use the ```fgets()``` function in C.  
 
-  In contrast to that bad question, lets see an example of a good question. [Please click here. The post is rather long.] (https://stackoverflow.com/questions/14732881/write-to-text-file-outside-of-webroot-directory). 
+  In contrast to that bad question, lets see an example of a good question. [Please click here, the post is rather long](https://stackoverflow.com/questions/14732881/write-to-text-file-outside-of-webroot-directory). 
   
   As you can see in this example the person asking the question came prepared. They fully explained what they tried/found on their own and included every relevant piece of code in a properly formatted way. The community response was overwhelmingly positive and as a result a back and forth communication channel between the person asking the question and the community started. These kinds of posts are often beneficial because they are not only helpful to the person asking the question, but are also helpful to other with the same problem because the problem and problem solving process are fully laid out.  
 
