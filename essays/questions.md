@@ -11,7 +11,7 @@ labels:
   - website/product help pages
 ---
 
-  Before we address the topic of this essay, I think it’s important to first delve in and understand what constitutes a good and bad question. While there are articles all over the web written by disgruntled people explaining what a bad question is, why they hate people who write it, etc., to sum it all up a bad question is basically a question written by a “helpless” person. No one likes dealing with someone who has the ability to do something on their own but always defaults to others for assistance. So when questions arise on the internet (or in person) in this kind of “helpless” format its understandable why so many people dislike them. 
+  Before we address the topic of this essay, I think it’s important to first delve in and understand what constitutes a good and bad question. While there are articles all over the web written by disgruntled people explaining what a bad question is, why they hate people who write it, etc., to sum it all up concisely, a bad question is basically a question written by a “helpless” person. No one likes dealing with someone who has the ability to do something on their own but always defaults to others for assistance. So when questions arise on the internet (or in person) in this kind of “helpless” format its understandable why so many people dislike them. 
   
   An example of a bad question is in the picture below:
   
