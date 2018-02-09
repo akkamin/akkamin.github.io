@@ -8,7 +8,7 @@ labels:
   - Coding Standards
 ---
 
-<img class="ui large right spaced image" src="../images/code_standards.png">*The Truth?? Obviously not!*
+<img class="ui medium right spaced image" src="../images/code_standards.png">*The Truth?? Obviously not!*
 
   For people new to programming, the idea of conforming code to a set template/structure is un-individualistic and a waste of time and energy. The process of arranging one’s code to a certain standard oppresses the programming code aesthetic of some people and even worse makes them do more work. Since no one likes doing more work than they have to (unless they really like what they do or something) why do we even bother wasting our time learning about and producing code formatted to other people's standards? The answer to this question depends upon who reads your code. If your code is never read by anyone beside yourself, then coding standards mean nothing to you. However, if a piece of code that you created is intended for other peoples use as well, then you may want to re-think your stance on coding standards. 
 
