@@ -8,8 +8,8 @@ labels:
   - UI Frameworks
 ---
 
-<img src="../images/without-semantic.png" class="ui left float small image">*Without Semantic
-<img src="../images/semanti-ui.png" class="ui rigth float small image">*With Semantic
+<img src="../images/without-semantic.png" class="ui small left floated image">*Without Semantic*
+<img src="../images/semanti-ui.png" class="ui small right floated image">*With Semantic*
 
 While UI frameworks have their benefits, they are not without their flaws. UI frameworks are beneficial because they provide a basic way to implement visually appealing webpages without the user needing to have extensive knowledge in CSS. However, depending upon the webpage and its requirements, UI frameworks may not necessarily have enough tools or reliability to be viable. Thus UI frameworks are a great starting tool, but not necessarily a permanent solution. 
 
