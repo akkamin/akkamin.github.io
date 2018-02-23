@@ -7,7 +7,7 @@ date: 2018-02-22
 labels:
   - UI Frameworks
 ---
-<div class="ui two column grid">
+<div class="ui two column grid" style="margin-bottom: 10px">
   <div class="column">
     <img src="../images/without-semantic.png" class="ui very large left floated image">*Without UI Framework*
   </div>
