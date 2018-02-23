@@ -1,3 +1,13 @@
+---
+layout: essay
+type: essay
+title: UI Frameworks
+# All dates must be YYYY-MM-DD format!
+date: 2018-02-22
+labels:
+  - UI Frameworks
+---
+
 
 
 While UI frameworks have their benefits, they are not without their flaws. UI frameworks are beneficial because they provide a basic way to implement visually appealing webpages without the user needing to have extensive knowledge in CSS. However, depending upon the webpage and its requirements, UI frameworks may not necessarily have enough tools or reliability to be viable. Thus UI frameworks are a great starting tool, but not necessarily a permanent solution. 
