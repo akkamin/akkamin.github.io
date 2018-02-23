@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: UI Frameworks
+title: Should you use UI Frameworks? Well, It Depends... 
 # All dates must be YYYY-MM-DD format!
 date: 2018-02-22
 labels:
@@ -16,6 +16,7 @@ labels:
     <img src="../images/semanti-ui.png" class="ui large right floated image">*With Semantic*
   </div>
 </div>
+
 While UI frameworks have their benefits, they are not without their flaws. UI frameworks are beneficial because they provide a basic way to implement visually appealing webpages without the user needing to have extensive knowledge in CSS. However, depending upon the webpage and its requirements, UI frameworks may not necessarily have enough tools or reliability to be viable. Thus UI frameworks are a great starting tool, but not necessarily a permanent solution. 
 
 Creating clean, appealing and functional webpages, without really fully understanding the CSS going on behind the scenes is probably the main reason UI frameworks are so useful. Depending on the website in question, the open-source model of many UI frameworks make them appealing for professionals, hobbyists and students to create attractive webpages without needing to spend much time and resources. In addition the relative abundance of documentation and online forums/tutorials also make UI frameworks accessible to developers. Ultimately UI frameworks allow unskilled individuals the ability to create good-looking webpages with minimal instructions and knowledge. This puts the necessary tools in the hands of a wider audience and gives them the chance to more easily create their own customized webpages compared to before with just raw HTML and CSS.
