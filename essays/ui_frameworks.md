@@ -9,11 +9,11 @@ labels:
 ---
 <div class="ui two column grid container">
   <div class="column">
-    <img src="../images/without-semantic.png" class="ui large left floated image">*Without Semantic*
+    <img src="../images/without-semantic.png" class="ui very large left floated image">*Without Semantic*
   </div>
   
   <div class="column">
-    <img src="../images/semanti-ui.png" class="ui large right floated image">*With Semantic*
+    <img src="../images/semanti-ui.png" class="ui very large right floated image">*With Semantic*
   </div>
 </div>
 
