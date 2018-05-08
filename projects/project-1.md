@@ -27,4 +27,4 @@ After figuring out the basics on my own, school started and I took a class on we
 <img class="ui medium rounded image" src="../images/landing_page.png">
 <img class="ui medium rounded image" src="../images/vendor_page.png">
 
-I've come to understand that the internet is not magic. A lot of different components come together to produce the website we visit everyday. What I've created so far is just a start, I hope to build on these experiences to produce better websites in the future.
+I've come to understand that the internet is not magic. A lot of different components come together to produce the website we visit everyday. What I've created so far is just a start, I hope to build on these experiences to produce better websites in the future. To see my most recent project, click on this [link](https://constrainedcooking.github.io/).
