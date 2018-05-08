@@ -1,17 +1,19 @@
 ---
 layout: essay
 type: essay
-title: "Final Project Idea"
-date: 2018-03-20
+title: "You Might as Well Work Together"
+date: 2018-05-08
 labels:
   - Software Engineering
   - Meteor
+  - Group Work
 ---
 
-<h1>UH book forum</h1>
+Software development/engineering in general is a field catered to group work. Object oriented paradigms and the internet beg developers to go out there and find other individuals to help them with their work. Source-code control models/programs regulate many common problems and integrated development environments make it easy to edit and test code. 
 
-Authors, Ky Ho, Aidan Akamine
+ Yet while so many tools are out there, the inane problems with working together will always remain. Lack of motivation, conflicts of interest, other responsibilities, etc all get in the way of the potential that collaboration holds. However, when this potential is realized, we see great things.
 
-At UH Manoa we have noticed that there is a lack of students who enjoy reading as a medium of entertainment. Being that UH is supposed to be a higher learning institution this is rather sad. We think that the reason may be that students are not interested in reading books alone. Thus, if we were to create a solution that brings people with the same “unique” interests in books together, this may increase the amount of students who read in leisure. 
+Group work is a touchy subject indeed. The fact that individual people can collectively work together on a single task is perhaps one of the greatest strengths we as Homo-sapiens posses. And just like how collaboration can be useful in every other aspect of life, so too is it applicable in software development. 
 
-The site will have a signup page that only allows UH affiliated individuals to join. Users will then be able to have their own interest page in which they can customize/categorize their favorite book genres to assist in getting users with the same interests to meet up. Users can then create public chat rooms based off of specific interests to connect with other users with similar “tastes”. Users then will also be able to add onto a page with categorized interest and add their favorite ways of consuming their “tastes”. All users will have a public profile to display their favorite books and what they are currently reading with a rating system. 
+
+

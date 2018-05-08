@@ -19,4 +19,4 @@ I've been experimenting with Blender over the past year and have come to realize
 
 I learned a lot about the design processes through Blender and am currently focusing on creating better meshes right now. 
 
-If you would like to know more about Blender go here
+If you would like to know more about Blender go [here](https://www.blender.org/).
