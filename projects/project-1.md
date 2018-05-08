@@ -5,17 +5,27 @@ image: images/website.jpg
 title: Website Development
 permalink: projects/website
 # All dates must be YYYY-MM-DD format!
-date: 2016-06-04
+date: 2018-05-08
 labels:
   - HTML
   - Javascript
   - php
   - sql
+  - Mongo
+  - Meteor
+  - Frameworks (semantic-UI)
+  
 summary: My experiences so far with web development
 ---
 
-<img class="ui medium right floated rounded image" src="../images/website_2.jpg">
+<img class="ui medium right floated rounded image" src="../images/first_website.png">
 
-Although I do not yet have any fully functioning examples of websites I have developed, I have worked on already existing websites and am currently working on my own website. While this doesn't seem like much, it has given me exposure to website implementation and structure. Website development is interesting because it often requires you to combine seemingly unrelated things in order to create a finished product. For example, take the login page of any website. In order to create a secure and functioning login page, various languages are often used together. HTML is used to create visual interfaces for users, javascript then can be used to make these interfaces interactive, and then php and sql can be used to check if input specified by the user matches a username and password in a database.
-  
-Realizing that different programming languages with different functionalities could be utilized together was a shock for me because I only had experience writing programs using a single language. Just like in the picture above, sometimes programs or websites are like a city, they require multiple different parts each with different functions to run properly.
+A year ago I had no idea how to make a website or even a webpage. From my perspective, everything on the internet was magic. I didn't realize more than one programming language is often used to build a website or even what servers and clients were. Fast forward to today, and while I'm not going to pretend like I became an expert in website development, compared to my former self, I'm a lot more knowledgeable than before. 
+
+I first started with javascript and php, messing around with creating very basic looking interactive websites. I'd create html elements using pure javascript while making calls to a mysql database. I made no attempt to try and create visually appealing user interfaces and focused only on functionality. These first attempts were probably the most important steps I took. I gained a general overview on how websites worked and a rudimentary understanding on how to create them. This knowledge would prove useful in creating my first "real" website. 
+
+After figuring out the basics on my own, school started and I took a class on web development. Here I learned about user interface frameworks and how to produce not only a functioning website, but also an appealing one that is easy for a user to use. 
+<img class="ui medium right floated rounded image" src="../images/landing_page.png">
+<img class="ui medium right floated rounded image" src="../images/vendor_page.png">
+
+I've come to understand that the internet is not magic. A lot of different components come together to produce the website we visit everyday. What I've created so far is just a start, I hope to build on these experiences to produce better websites in the future.
