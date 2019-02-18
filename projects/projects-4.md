@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/happiness_viz.png
 title: World Happiness Visualization
-permalink: projects/happiness_visualization
+permalink: projects/java_game
 # All dates must be YYYY-MM-DD format!
 date: 2019-2-15
 labels:
