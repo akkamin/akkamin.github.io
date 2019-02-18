@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/happiness_visualization.png
+image: images/happiness_viz.png
 title: World Happiness Visualization
 permalink: projects/happiness_viz
 # All dates must be YYYY-MM-DD format!
