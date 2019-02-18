@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/street_fighter_game.png
 title: ICS 111 Final Project
-permalink: projects/test
+permalink: projects/happiness_viz
 # All dates must be YYYY-MM-DD format!
 date: 2016-11-27
 labels:
