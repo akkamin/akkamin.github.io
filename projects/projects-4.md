@@ -2,12 +2,12 @@
 layout: project
 type: project
 image: images/happiness_viz.png
-title: ICS 111 Final Project
-permalink: projects/java_game
+title: World Happiness Visualization
+permalink: projects/happiness_viz
 # All dates must be YYYY-MM-DD format!
-date: 2016-11-27
+date: 2019-02-19
 labels:
-  - Java
-summary: A game I developed using EZ.java for ICS 111.
+  - Javascript
+summary: A visualization for the world happiness report
 ---
 
