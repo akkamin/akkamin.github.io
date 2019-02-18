@@ -1,4 +1,3 @@
-
 layout: project
 type: project
 image: images/street_fighter_game.png
