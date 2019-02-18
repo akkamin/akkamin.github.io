@@ -1,23 +1,24 @@
 ---
 layout: project
 type: project
-image: images/street_fighter_game.png
-title: ICS 111 Final Project
-permalink: projects/java_game
+image: 
+title: World Happiness Report Visualization
+permalink: projects/data visualization
 # All dates must be YYYY-MM-DD format!
-date: 2016-11-27
+date: 2019-2-15
 labels:
-  - Java
-summary: A game I developed using EZ.java for ICS 111.
+  - Javascript
+summary: A group project developed for ICS 484 at the University of Hawaii at Manoa.
 ---
 
-  <img class="ui medium image" src="../images/street_fighter_game.png">
+  <img class="ui medium image" src="../images/happiness_viz.png">
   
+ 
+[Link to visualization](https://ics-484-fall-2018-team-app.github.io/Project-3/index.html#map)
+[Link to github repository](https://github.com/ICS-484-Fall-2018-Team-App/Project-3)
 
-In ICS 111 my partner and I created a basic Street Fighter like game where the user controls a character on the screen to destroy a car. To make the game more visually appealing, various images of different character poses were used for each character to make it seem like the character was moving on the screen. These character poses, called "sprites" were then continuously  cycled through during execution of the program. I was responsible for creating the classes which animated the game. This included animating the character movements, abilities and explosions. I also created user interface menus to pause, exit and restart the game. 
+In ICS 484 we were assigned a group project in where we had to find a data set and visualize it.
 
-This game was created using EZ.java, a graphics engine for java that makes graphics rendering very easy. EZ.java was a very helpful interface that made it possible for someone like me with no prior programming experience to create interesting games and visual animations far above my level of understanding. 
-
-You can learn more about EZ.java [here](http://www2.hawaii.edu/~dylank/ics111/).
+You can learn more about the world happiness report [here](http://worldhappiness.report/).
 
 
