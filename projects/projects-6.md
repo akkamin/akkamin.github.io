@@ -13,7 +13,7 @@ labels:
 summary: Importing an animated object from blender to webGL
 ---
 
-  <img class="ui large image" src="../images/liquid argon.gif">
+  <img class="ui large image" src="../web_gl_loader_example.png">
   
 
   
