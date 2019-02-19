@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/web_gl_loader_example.png
 title: Blender to browser animation
-permalink: projects/liquid_argon
+permalink: projects/blender_to_webgl
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-20
 labels:
