@@ -18,6 +18,8 @@ In ICS 111 my partner and I created a basic Street Fighter like game where the u
 
 This game was created using EZ.java, a graphics engine for java that makes graphics rendering very easy. EZ.java was a very helpful interface that made it possible for someone like me with no prior programming experience to create interesting games and visual animations far above my level of understanding. 
 
+A video of the full game can be found [here](https://www.youtube.com/watch?v=Gqqm5lKvjo0)
+
 You can learn more about EZ.java [here](http://www2.hawaii.edu/~dylank/ics111/).
 
 
