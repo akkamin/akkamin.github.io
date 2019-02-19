@@ -10,7 +10,7 @@ labels:
   - Blender
   - Threejs
   - WebGL
-summary: Importing an animated object from blender to webGL
+summary: Importing an animated person from blender to webGL
 ---
 
   <img class="ui large image" src="../web_gl_loader_example.png">
