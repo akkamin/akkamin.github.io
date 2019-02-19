@@ -11,8 +11,8 @@ labels:
 summary: A visualization for the world happiness report
 ---
 
-  <img class="ui medium image" src="../images/happiness_viz.png">
-  <img class="ui medium image" src="../images/happines_graph.png">
+  <img class="ui large image" src="../images/happiness_viz.png">
+  <img class="ui large image" src="../images/happines_graph.png">
   
 In ICS 484 we were assigned a group project in which we had to find a data set and visualize it.The data for this project was obtained from kaggle and was the happiness data from years 2015-2017. The goal of this was to visualize happiness around the world and if possible relate any metrics from the data itself to happiness. To do this we created an interactive map that allows users to compare happiness and happiness metrics of differnet countries to one another. Additionally, happiness metrics were graphed so trends could be seen.
 
