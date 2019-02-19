@@ -12,7 +12,7 @@ labels:
 summary: A 3D visualization of a liquid argon simulation
 ---
 
-  <img class="ui medium image" src="../images/liquid argon.gif">
+  
   
 In CHEM 761 we were assigned a project to produce a simulation of liquid argon. This was a especially difficult project for me as theory and programming had to be combined together to achieve the result. Without the help of Kazuumi Fujioka I may have not been able to produce this.
   
