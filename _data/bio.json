@@ -6,7 +6,7 @@
     "email": "aidana@hawaii.edu",
     "phone": "808-333-4444",
     "website": "https://akkamin.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2019.",
+    "summary": "I am studying for a B.S. in Computer Science and a B.A in Chemistry in the Departments of Information and Computer Sciences and Chemistry at the University of Hawaii. Additonally I have completed a minor Japanese at the University of Hawaii. I expect to graduate in Spring, 2019.",
     "location": {
       "address": "2500 Campus Road",
       "postalCode": "96822",
@@ -29,10 +29,16 @@
   },
   "interests": [
     {
-      "name": "3D character modeling",
+      "name": "3D modeling",
       "keywords": [
-        "Blender"
+        "Blender, motionbuilder, maya"
       ]
+    },
+    {
+        "name": "Computer-aided Design",
+        "keywords": [
+            "Solidworks"
+        ]
     },
     {
       "name": "website development",
@@ -54,6 +60,7 @@
         "C++",
         "Java",
         "Javascript",
+        "Python",
         "php",
         "html"
       ]
@@ -80,6 +87,17 @@
     }
   ],
   "work": [
+      {
+          "company": "UH Manoa iLab",
+          "position": "Lab monitor",
+          "website": "",
+          "startDate": "2019-01-14",
+          "endDate": "Present",
+          "summary": "Implementation of motion capture animation workflow",
+          "highlights": [
+              "Implement and document a workflow process for effectively transitioning optical motion capture data into animations"
+          ]
+      },
     {
       "company": "UH Manoa Kewalo Marine lab",
       "position": "laboratory Maintenance Assistant",
@@ -88,7 +106,7 @@
       "endDate": "Present",
       "summary": "Building/grounds upkeep",
       "highlights": [
-        "Maintain building appearance "
+        "Maintain lawn appearance "
       ]
     },
   ],
@@ -113,6 +131,13 @@
       "awarder": "UH manoa Phi Beta Kappa chapter",
       "summary": "Honor Society"
     },
+    {
+        "title": "Rodney P. Santos Scholarship",
+        "date": "2018-11-16",
+        "awarder": "University of Hawaii Colleges of Arts & Sciences Alumni Association",
+        "summary": "Scholarship"
+    },
+    
   ],
   "references": [
     {

@@ -8,14 +8,14 @@ permalink: projects/happiness_viz
 date: 2019-02-19
 labels:
   - Javascript
-summary: A visualization for the world happiness report
+summary: A visualization of the world happiness report
 ---
 
   <img class="ui large image" src="../images/happiness_viz.png">
   <img class="ui large image" src="../images/happines_graph.png">
   <img class="ui large image" src="../images/happiness_charts.PNG">
   
-In ICS 484 we were assigned a group project in which we had to find a data set and visualize it.The data for this project was obtained from kaggle and was the happiness data from years 2015-2017. The goal of this was to visualize happiness around the world and if possible relate any metrics from the data itself to happiness. To do this we created an interactive map that allows users to compare happiness and happiness metrics of differnet countries to one another. Additionally, happiness metrics were graphed so trends could be seen.
+In ICS 484 we were assigned a group project in which we had to find a data set and visualize it.The data for this project was obtained from kaggle and was the World Happiness data from years 2015-2017. The goal of this was to visualize happiness around the world and if possible relate any metrics from the data itself to happiness. To do this we created an interactive map that allows users to compare happiness and happiness metrics of differnet countries to one another. Additionally, happiness metrics were graphed so trends could be seen.
 
   
  
@@ -24,5 +24,6 @@ In ICS 484 we were assigned a group project in which we had to find a data set a
 [Link to github repository](https://github.com/ICS-484-Fall-2018-Team-App/Project-3)
 
 
-You can learn more about the world happiness report [here](http://worldhappiness.report/).
-The data can be found [here](https://www.kaggle.com/unsdsn/world-happiness).
+You can learn more about the World Happiness report [here](http://worldhappiness.report/).
+
+The World Happiness data can be found [here](https://www.kaggle.com/unsdsn/world-happiness).

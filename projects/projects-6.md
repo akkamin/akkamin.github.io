@@ -10,11 +10,11 @@ labels:
   - Blender
   - Threejs
   - WebGL
-summary: Importing an animated person from blender to webGL
+summary: Importing an animated person from blender into browser using Threejs
 ---
 
-  <img class="ui large image" src="../web_gl_loader_example.png">
-  
+  <img class="ui large image" src="../images/web_gl_loader_example_2.png">
+I made a few short animations in blender to experiment with animations for games. I then tried viewing the animations from my browser using Threejs.  
 
   
  
