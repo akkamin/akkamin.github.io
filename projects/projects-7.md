@@ -14,6 +14,11 @@ labels:
   - MotionBuilder
 summary: Magic Leap application
 ---
+
+<div class="ui embed" data-source="youtube" data-id="YALy7Kbbug8" ></div>
+<br>
+
+
 For an undergraduate research project I joined a team working with the Magic Leap augmented reality headset.  The ultimate goal of the project is to eventually use augmented or virtual reality to get kids with eating problems to eat. Since the project was just started, we wanted to show the clinitians who work with the kids thd differnt features the Magic Leap system has to offer. Using the Unity editor we created a demo showing the various features available in Magic Leap and walked the clinitions through the demo.
 
 In order to explore the Magic Leap's interactivity, meshing, the controller, raycasting and hand tracking  features were mainly developed. 
@@ -36,7 +41,9 @@ An easy way to interact with objects in the virtual space is through Unity's bui
 <img class="ui large image rounded" src="../images/magic_leap_3.png">
 
 ### Hand Tracking
-One of the most interesting, yet also disappointing features of Magic Leap is its hand tracking. While the hand tracking features are simple to implement, they are lacking on their accuracy and responsiveness. The white balls in the images below are supposed to correlate to the center of my palms and the tips of my index fingers. In certain cases, the hand tracking is ok and gets the job done. However, when you move your hands around, the latency becomes very obvious. Additionally, depending on the angle you are viewing your hands the hand tracking can be very inaccurate. Currently the Magic Leap also supports around 7 hand gestures, these for the most part work quite well, though sometimes similarites between gestures can make it frustrating to work with. 
+One of the most interesting, yet also disappointing features of Magic Leap is its hand tracking. While the hand tracking features are simple to implement, they are lacking on their accuracy and responsiveness. The white balls in the images below are supposed to correlate to the center of my palms and the tips of my index fingers. In certain cases, the hand tracking is ok and gets the job done. However, when you move your hands around, the latency becomes very obvious. Additionally, depending on the angle you are viewing your hands the hand tracking can be very inaccurate. Currently the Magic Leap also supports around 7 hand gestures, these for the most part work quite well, though sometimes similarites between gestures can make it frustrating to work with.
+
+I mainly used the gestures in ways similar to key presses, for example, the "OK" gesture with your fingers allowed a user to switch modes, a "pinch" with your right hand inside a moveable object allowed you to move it around and a pinch inside a moveable object with your left hand allowed you to scale it. The white balls were set to stay on the position of my fingers and hands and acted as colliders for Unity's physics engine, enabling me to interact with virtual objects. 
 
 Perhaps in the future, Magic Leap will expand the hand tracking options to include user specified objects, but for now, the only objects the Magic Leap can currently recognize and track are a users hands or 2D images. 
 <img class="ui large image rounded" src="../images/magic_leap_5.png">
@@ -47,7 +54,9 @@ Perhaps in the future, Magic Leap will expand the hand tracking options to inclu
 Magic Leap does include a 2D image tracking feature. A user can upload an image and the Magic Leap headset will be able to recognize it. However, I had trouble recording this feature, as only one application can use the camera at a given time (ie I could not have image tracking enabled while also recording the video). On the Magic Leap discusison forms people have found loop holes to record and image track at the same time, but I decided to focus more on added more assets to the interactive environment instead of figuring out how to record and recognize 2D images at the same time. 
 
 
-## [Link to Magic Leap application](https://www.youtube.com/watch?v=YALy7Kbbug8)
+### Looking To the Future
+For the purposes of the clinitians (the people we built the application for) I really believe that at least for now, the most effective way for them to utilize the Magic Leap headset is through augmented reality games. Originally the clinitians wanted to utilize object recognition to overlay things over foods for children, but since that feature isn't ready yet in the magic leap, for now I think games are the way to go. For example, if I have a dragon that a child is fighting, as the dragon attacks, the child will see their heath bar go down and the only way to replenish it will be through eating.
+
 
 [Link to Magic Leap website](https://www.magicleap.com/creator)
 <br>
